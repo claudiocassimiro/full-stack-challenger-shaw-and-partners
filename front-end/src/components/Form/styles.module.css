@@ -1,0 +1,15 @@
+.listCSVForm {
+  @apply flex justify-around items-center w-full my-3;
+}
+
+.listCSVlabel {
+  @apply w-[80%] text-black;
+}
+
+.listCSVInput {
+  @apply w-[90%] text-black h-8 rounded pl-2 md:w-[95%];
+}
+
+.listCSVButton {
+  @apply bg-white border-none rounded text-black w-[20%] h-8;
+}
