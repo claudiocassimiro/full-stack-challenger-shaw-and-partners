@@ -1,0 +1,92 @@
+export const mockData = [
+  {
+    key: "call",
+    value: "disabled",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 11:55:34",
+  },
+  {
+    key: "CheckMsgIsGroup",
+    value: "enabled",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-05 11:47:08",
+  },
+  {
+    key: "closeTicketApi",
+    value: "disabled",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 11:55:34",
+  },
+  {
+    key: "darkMode",
+    value: "disabled",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 11:55:34",
+  },
+  {
+    key: "messageOnDisconnect",
+    value: "Desconexão",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 11:55:34",
+  },
+  {
+    key: "notificateAdminOnDisconnect",
+    value: "disabled",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 11:55:34",
+  },
+  {
+    key: "notificateDepartamentOnDisconnect",
+    value: "disabled",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 11:55:34",
+  },
+  {
+    key: "notificateOnDisconnect",
+    value: "enabled",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-05 11:47:19",
+  },
+  {
+    key: "notificateUserOnDisconnect",
+    value: "disabled",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 11:55:34",
+  },
+  {
+    key: "notificationWhatsappId",
+    value: "null",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 11:55:34",
+  },
+  {
+    key: "sideMenu",
+    value: "enabled",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-05 11:47:13",
+  },
+  {
+    key: "timeCreateNewTicket",
+    value: "10",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 11:55:34",
+  },
+  {
+    key: "userApiToken",
+    value: "a829f04a-1686-44bc-80a0-7782375729c7",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 11:55:34",
+  },
+  {
+    key: "userCreation",
+    value: "enabled",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 11:55:34",
+  },
+  {
+    key: "visualizeMessage",
+    value: "disabled",
+    createdAt: "2023-10-04 11:55:34",
+    updatedAt: "2023-10-04 20:44:32",
+  },
+];
