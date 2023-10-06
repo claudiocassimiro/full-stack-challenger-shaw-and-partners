@@ -1,0 +1,16 @@
+.uploadCsvContainer,
+.uploadCsvContainerImageAndTitle {
+  @apply flex flex-col justify-center items-center;
+}
+
+.uploadCsvTitle {
+  @apply text-2xl;
+}
+
+.uploadCsvLabelButton {
+  @apply flex items-center gap-1 cursor-pointer m-4 bg-white p-2 rounded text-black text-xl;
+}
+
+.uploadCsvButton {
+  @apply hidden;
+}
