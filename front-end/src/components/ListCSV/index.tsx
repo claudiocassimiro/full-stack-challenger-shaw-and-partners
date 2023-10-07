@@ -8,8 +8,6 @@ import Form from "../Form";
 export default function ListCSV() {
   const [csvData, setCSVData] = React.useState<any[]>([]);
 
-  console.log(csvData);
-
   return (
     <div className={styles.listCSVContainer}>
       {csvData.length === 0 ? (
